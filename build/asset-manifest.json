@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.15e5069c.css",
+    "main.js": "/static/js/main.070f31a5.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/Udhari.png": "/static/media/Udhari.e60f7a216f85125aa9cd.png",
+    "index.html": "/index.html",
+    "main.15e5069c.css.map": "/static/css/main.15e5069c.css.map",
+    "main.070f31a5.js.map": "/static/js/main.070f31a5.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15e5069c.css",
+    "static/js/main.070f31a5.js"
+  ]
+}
